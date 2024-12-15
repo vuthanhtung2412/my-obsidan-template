@@ -27,10 +27,15 @@
             "id": "b111f6a6e15b8d06",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Note template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Note template"
             }
           }
         ]
@@ -191,14 +196,15 @@
   "lastOpenFiles": [
     "Templates/Tag template.md",
     "Templates/Note template.md",
-    "Excalidraw/First.excalidraw.md",
-    "3 Atomic Notes/sample note.md",
+    "1 Tags/sample tag.md",
     "2 Blobs/sample_image.jpeg",
+    "3 Atomic Notes/sample note.md",
+    "Excalidraw/First.excalidraw.md",
+    "README.md",
     "3 Atomic Notes/Learn Obsidian.md",
     "3 Atomic Notes/Learn Zettelkasten.md",
     "3 Atomic Notes/README.md",
     "1 Tags/README.md",
-    "1 Tags/sample tag.md",
     "3 Atomic Notes/Second note.md",
     "3 Atomic Notes/Dog.md",
     "3 Atomic Notes/Untitled.md",
