@@ -48,13 +48,6 @@ set tabstop=2
 " action + i/a + s : on the current sentence (surrounded by dots)
 " Already works !
 
-" Go back and forward with Ctrl+O and Ctrl+I
-" (make sure to remove default Obsidian shortcuts for these to work)
-exmap back obcommand app:go-back
-nmap <C-o> :back<CR>
-exmap forward obcommand app:go-forward
-nmap <C-i> :forward<CR>
-
 " Emulate Folding https://vimhelp.org/fold.txt.html#fold-commands
 exmap togglefold obcommand editor:toggle-fold
 nmap zo :togglefold<CR>
@@ -66,11 +59,6 @@ nmap zR :unfoldall<CR>
 
 exmap foldall obcommand editor:fold-all
 nmap zM :foldall<CR>
-
-exmap tabnext obcommand workspace:next-tab
-nmap gt :tabnext<CR>
-exmap tabprev obcommand workspace:previous-tab
-nmap gT :tabprev<CR>
 
 " TO BE CONTINUED:
 " action + i/a + g : on the whole file 

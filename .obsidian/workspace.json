@@ -4,74 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "c053b679806ac137",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b111f6a6e15b8d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Note template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Note template"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2ef26fbdec0725ab",
+        "id": "ee4075f9289ace2b",
         "type": "split",
         "children": [
           {
-            "id": "08db024fdb9f2e7c",
+            "id": "326a2d4854858ad6",
             "type": "tabs",
             "children": [
               {
-                "id": "a574b3ca82127227",
+                "id": "f485a8672666ec3a",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              },
+              {
+                "id": "b7328615c01e52ce",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Templates/Note template.md",
+                    "file": "3 Atomic Notes/sample note.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Note template"
+                  "title": "sample note"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
-            "id": "340ce42680a5a993",
+            "id": "421d02a65a91ed68",
             "type": "tabs",
             "children": [
               {
-                "id": "436ab3e9c942932c",
+                "id": "39b93fb02aca0ae5",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1 Tags/sample tag.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "sample tag"
+                  "title": "New tab"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal"
+      },
+      {
+        "id": "52035c19e7e3525d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8008f23c2308139c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,8 +184,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -225,14 +227,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a574b3ca82127227",
+  "active": "b7328615c01e52ce",
   "lastOpenFiles": [
-    "1 Tags/sample tag.md",
-    "Templates/Note template.md",
     "3 Atomic Notes/sample note.md",
-    "Templates/Tag template.md",
+    "1 Tags/sample tag.md",
     "2 Blobs/sample_image.jpeg",
+    "3 Atomic Notes/Untitled.md",
+    "Templates/Note template.md",
     "Excalidraw/First.excalidraw.md",
+    "3 Atomic Notes/sample_image.md",
+    "Templates/Tag template.md",
     "README.md",
     "3 Atomic Notes/Learn Obsidian.md",
     "3 Atomic Notes/Learn Zettelkasten.md",
@@ -240,7 +244,6 @@
     "1 Tags/README.md",
     "3 Atomic Notes/Second note.md",
     "3 Atomic Notes/Dog.md",
-    "3 Atomic Notes/Untitled.md",
     "1 Tags/Dog.md",
     "1 Tags/Animal.md",
     "3 Atomic Notes/First thing first.md",
