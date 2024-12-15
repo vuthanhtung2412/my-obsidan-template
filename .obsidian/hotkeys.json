@@ -60,5 +60,6 @@
       "key": "L"
     }
   ],
-  "editor:toggle-checklist-status": []
+  "editor:toggle-checklist-status": [],
+  "editor:open-search": []
 }
