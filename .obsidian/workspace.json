@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "ca89c3d357529377",
+    "type": "split",
+    "children": [
+      {
+        "id": "b05b75e8e79512c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c0b1fb09b30974c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Atomic Notes/Learn Zettelkasten.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learn Zettelkasten"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c053b679806ac137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b111f6a6e15b8d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Atomic Notes/Learn Zettelkasten.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learn Zettelkasten"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a73aa51a06efd85",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0af57e57e867eac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "970b1f317a5a574e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2e091038a5bddff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f29f981ce9ea51de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51e307dc31eed0c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b455b593e77ba05b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93cec0b65ca634a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 Tags/Animal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Animal"
+            }
+          },
+          {
+            "id": "85886a49e2656a0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d31053398dffcd5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 Tags/Dog.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dog"
+            }
+          },
+          {
+            "id": "eff5d6e1e01ae6f3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "be01804a97abc5e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 Atomic Notes/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 599.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "b111f6a6e15b8d06",
+  "lastOpenFiles": [
+    "3 Atomic Notes/Learn Obsidian.md",
+    "3 Atomic Notes/Learn Zettelkasten.md",
+    "3 Atomic Notes/README.md",
+    "3 Atomic Notes/sample note.md",
+    "2 Blobs/sample_image.jpeg",
+    "1 Tags/README.md",
+    "Templates/Note template.md",
+    "1 Tags/sample tag.md",
+    "3 Atomic Notes/Second note.md",
+    "3 Atomic Notes/Dog.md",
+    "3 Atomic Notes/Untitled.md",
+    "1 Tags/Dog.md",
+    "1 Tags/Animal.md",
+    "3 Atomic Notes/First thing first.md",
+    "Excalidraw/First.excalidraw.md",
+    "sample_image.jpeg",
+    "Excalidraw",
+    "Templates/Tag template.md",
+    "Templates/Ref template.md",
+    "Welcome.md",
+    "Templates",
+    "3 Atomic Notes",
+    "3 References/sample_image.md",
+    "3 References/README.md",
+    "3 References",
+    "2 Blobs",
+    "1 Tags"
+  ]
+}
