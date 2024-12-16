@@ -151,5 +151,13 @@
       ],
       "key": "E"
     }
+  ],
+  "workspace:close-tab-group": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
   ]
 }

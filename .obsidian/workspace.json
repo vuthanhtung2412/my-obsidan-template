@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4417d0bc611b53fe",
+        "id": "865dbd4fbd1fcf12",
         "type": "tabs",
         "children": [
           {
-            "id": "e3de3190fabc3ecf",
+            "id": "96b009644797ac4b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e3de3190fabc3ecf",
+  "active": "96b009644797ac4b",
   "lastOpenFiles": [
     "3 Atomic Notes/sample note.md",
     "1 Tags/sample tag.md",
