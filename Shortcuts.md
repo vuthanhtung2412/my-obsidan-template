@@ -16,8 +16,9 @@
 
 + number + J/K : to move up/down by logical line
 + / + search : workaround for leap.nvim
-+ za : toogle fold
++ zo/za : toogle fold
 + zR : unfold all
++ zM : fold all
 + `[[` : go to prev headings
 + `]]` : go to next headings
 + gf : open link under the cursor
