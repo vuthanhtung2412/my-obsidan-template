@@ -26,13 +26,12 @@ nnoremap C "_C
 nnoremap r "_r
 
 " j/k nav by visual line not vertical line
-" Turn off highlight as soon as navigation starts
-nnoremap j :nohl<CR>gj
-nnoremap k :nohl<CR>gk
 vnoremap j gj
 vnoremap k gk
 noremap J j
 noremap K k
+
+" Turn off highlight on horizontal navigation
 nnoremap h :nohl<CR>h
 nnoremap l :nohl<CR>l
 
@@ -77,3 +76,4 @@ nmap zM :foldall<CR>
 
 " action + i/a + i : on the same identation
 " leap.nvim like
+" proper jump list setup

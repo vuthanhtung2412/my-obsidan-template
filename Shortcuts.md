@@ -22,3 +22,4 @@
 + `[[` : go to prev headings
 + `]]` : go to next headings
 + gf : open link under the cursor
++ highlight automatically turn off when navigate horizontally.
