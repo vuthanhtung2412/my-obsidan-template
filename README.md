@@ -18,6 +18,7 @@
 1. This folder is used to **gain insights and navigating** to your network of notes.
 2. When a tags (a subject) get large enough, It worth reviewing it and make a note to find common ideas.
 
+
 ### How to take note
 
 1. You first start by creating a blob (if exist). Make sure to rename the blob.
