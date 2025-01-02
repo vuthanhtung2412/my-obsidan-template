@@ -41,6 +41,12 @@
         "Mod"
       ],
       "key": "H"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "H"
     }
   ],
   "editor:open-search-replace": [],
@@ -48,6 +54,12 @@
     {
       "modifiers": [
         "Mod"
+      ],
+      "key": "L"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
       ],
       "key": "L"
     }
@@ -67,6 +79,12 @@
         "Mod"
       ],
       "key": "I"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "I"
     }
   ],
   "app:go-back": [
@@ -80,6 +98,12 @@
     {
       "modifiers": [
         "Mod"
+      ],
+      "key": "O"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
       ],
       "key": "O"
     }

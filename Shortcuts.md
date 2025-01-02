@@ -5,9 +5,9 @@
 + Ctrl + i/o : to move forward/backward (inspired by nvim)
 + Alt + e/E : toogle left/right sidebar (inspired by neo-tree)
 + Alt + q : close a window group (inspired by vim)
-+ Ctrl + w : close a tab (inspired by chrome)
-+ Ctrl + t : new tab (inspired by chrome)
-+ Ctrl + T : open recently closed tab (inspired by chrome)
++ Ctrl/Cmd + w : close a tab (inspired by chrome)
++ Ctrl/Cmd + t : new tab (inspired by chrome)
++ Ctrl/Cmd + T : open recently closed tab (inspired by chrome)
 + Alt + t : insert template because it just make sense
 + Alt + j/k : move line down/up (inspired by nvim)
 + Alt + m : move current file to new position (because it make sense)
