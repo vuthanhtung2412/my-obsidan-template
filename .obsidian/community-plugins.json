@@ -3,5 +3,7 @@
   "table-editor-obsidian",
   "dataview",
   "obsidian-vimrc-support",
-  "obsidian-relative-line-numbers"
+  "obsidian-relative-line-numbers",
+  "obsidian-livesync",
+  "obsidian-annotator"
 ]

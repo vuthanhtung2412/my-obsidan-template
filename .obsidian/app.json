@@ -5,5 +5,8 @@
   "strictLineBreaks": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "2 Blobs"
+  "tabSize": 4,
+  "useTab": true,
+  "attachmentFolderPath": "2 Blobs",
+  "showUnsupportedFiles": true
 }

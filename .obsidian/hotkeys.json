@@ -79,12 +79,6 @@
         "Mod"
       ],
       "key": "I"
-    },
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "I"
     }
   ],
   "app:go-back": [
@@ -98,12 +92,6 @@
     {
       "modifiers": [
         "Mod"
-      ],
-      "key": "O"
-    },
-    {
-      "modifiers": [
-        "Ctrl"
       ],
       "key": "O"
     }
@@ -184,6 +172,22 @@
       "key": "Q"
     }
   ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
   "editor:swap-line-down": [
     {
       "modifiers": [
@@ -200,20 +204,20 @@
       "key": "K"
     }
   ],
-  "file-explorer:move-file": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "M"
-    }
-  ],
   "outline:open": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "O"
+    }
+  ],
+  "obsidian-annotator:toggle-annotation-mode": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
     }
   ]
 }
