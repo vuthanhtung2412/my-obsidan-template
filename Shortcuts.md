@@ -12,6 +12,7 @@
 + Alt + j/k : move line down/up (inspired by nvim)
 + Alt + m : move current file to new position (because it make sense)
 + Alt + o : show table of content
++ Cmd + n : open new window
 
 # Vim motions
 
