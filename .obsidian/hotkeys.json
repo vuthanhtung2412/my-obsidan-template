@@ -24,6 +24,12 @@
         "Mod"
       ],
       "key": "K"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "K"
     }
   ],
   "editor:insert-link": [],
@@ -31,6 +37,12 @@
     {
       "modifiers": [
         "Mod"
+      ],
+      "key": "J"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
       ],
       "key": "J"
     }
@@ -79,6 +91,12 @@
         "Mod"
       ],
       "key": "I"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "I"
     }
   ],
   "app:go-back": [
@@ -92,6 +110,12 @@
     {
       "modifiers": [
         "Mod"
+      ],
+      "key": "O"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
       ],
       "key": "O"
     }
