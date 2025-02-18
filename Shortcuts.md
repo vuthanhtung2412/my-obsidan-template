@@ -25,3 +25,7 @@
 + `]]` : go to next headings
 + gf : open link under the cursor
 + highlight automatically turn off when navigate horizontally.
+
+# Commands to know 
++ Excalidraw : Insert Image or excalidraw drawings from you vault
+  + Sources for SVG : https://www.svgrepo.com 
