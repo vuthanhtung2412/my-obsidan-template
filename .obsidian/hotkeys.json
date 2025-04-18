@@ -6,6 +6,12 @@
         "Shift"
       ],
       "key": "O"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
     }
   ],
   "editor:toggle-italics": [],
@@ -21,6 +27,12 @@
   "editor:focus-top": [
     {
       "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    },
+    {
+      "modifiers": [
         "Ctrl"
       ],
       "key": "K"
@@ -30,12 +42,24 @@
   "editor:focus-bottom": [
     {
       "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    },
+    {
+      "modifiers": [
         "Ctrl"
       ],
       "key": "J"
     }
   ],
   "editor:focus-left": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    },
     {
       "modifiers": [
         "Ctrl"
@@ -47,6 +71,12 @@
   "editor:focus-right": [
     {
       "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    },
+    {
+      "modifiers": [
         "Ctrl"
       ],
       "key": "L"
@@ -54,27 +84,6 @@
   ],
   "editor:toggle-checklist-status": [],
   "editor:open-search": [],
-  "app:go-forward": [
-    {
-      "modifiers": [
-        "Mod",
-        "Alt"
-      ],
-      "key": "ArrowRight"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "I"
-    },
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "I"
-    }
-  ],
   "app:go-back": [
     {
       "modifiers": [
@@ -82,12 +91,6 @@
         "Alt"
       ],
       "key": "ArrowLeft"
-    },
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "O"
     },
     {
       "modifiers": [
@@ -145,14 +148,6 @@
         "Alt"
       ],
       "key": "-"
-    }
-  ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "E"
     }
   ],
   "app:toggle-right-sidebar": [
@@ -227,6 +222,29 @@
         "Shift"
       ],
       "key": "B"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Mod",
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "I"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
     }
   ]
 }
