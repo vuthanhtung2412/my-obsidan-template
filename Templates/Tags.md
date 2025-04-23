@@ -1,2 +1,0 @@
-# Jots
-# Distilled notes
