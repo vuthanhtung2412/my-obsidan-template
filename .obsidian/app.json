@@ -9,5 +9,5 @@
   "useTab": true,
   "attachmentFolderPath": "2 Blobs",
   "showUnsupportedFiles": true,
-  "readableLineLength": false
+  "readableLineLength": true
 }

@@ -6,5 +6,6 @@
   "obsidian-relative-line-numbers",
   "obsidian-livesync",
   "obsidian-annotator",
-  "obsidian-hider"
+  "obsidian-hider",
+  "obsidian-local-rest-api"
 ]

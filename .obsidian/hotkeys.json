@@ -27,12 +27,6 @@
   "editor:focus-top": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "K"
-    },
-    {
-      "modifiers": [
         "Ctrl"
       ],
       "key": "K"
@@ -245,6 +239,14 @@
         "Alt"
       ],
       "key": "E"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
     }
   ]
 }
